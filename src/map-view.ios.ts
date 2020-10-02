@@ -1,7 +1,6 @@
 import { Color, Image, ImageSource } from '@nativescript/core';
 import { Point }                     from '@nativescript/core/ui/core/view';
 import { GC, layout }                from '@nativescript/core/utils';
-import { WeakRef }                   from '@nativescript/core/debugger/dom-node';
 
 import {
     bearingProperty, BoundsBase, CircleBase, getColorHue, latitudeProperty, longitudeProperty, MapViewBase, MarkerBase,
